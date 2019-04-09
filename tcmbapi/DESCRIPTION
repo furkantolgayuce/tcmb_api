@@ -1,0 +1,10 @@
+Package: tcmbapi
+Title: Türkiye Cumhuriyet Merkez Bankası API
+Version: 0.1
+Authors@R: person("Furkan Tolga", "Yüce", email = "yucefurkantolga@gmail.com", role = c("aut", "cre"))
+Description: Bu paket Türkiye Cumhuriyet Merkez Bankası API'sini kullanarak sizlere projelerinize entegre edebileceğiniz dataframe oluşturur.
+Depends: R (>= 3.4.4)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
